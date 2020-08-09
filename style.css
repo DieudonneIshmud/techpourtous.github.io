@@ -260,9 +260,7 @@ footer .flex{
   .form-control input{
     margin: 20px 0;
   }
-  .form-control button{
-    align-items: center;
-  }
+
   .footer-section{
     flex: auto;
     width: 100%;
