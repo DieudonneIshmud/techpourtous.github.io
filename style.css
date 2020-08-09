@@ -153,6 +153,10 @@ p{
 
 }
 /*Form Styling*/
+.theForm{
+  display: flex;
+  align-items: center;
+}
 form{
     background-color: hsl(217, 28%, 15%);
     border-radius: 5px;
@@ -165,6 +169,7 @@ form{
     width: 800px;
     z-index: 1;
 }
+
 form h1{
     margin: 0 auto;
 }
