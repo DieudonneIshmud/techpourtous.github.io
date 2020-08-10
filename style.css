@@ -16,7 +16,7 @@ background-position: left bottom;
 padding-bottom:80px;
 }
 .container{
-    padding: 20px;
+    padding: 40px;
     margin: 0 auto;
     max-width: 100%;
     width: 1200px;
@@ -255,7 +255,8 @@ footer .flex{
 
   }
   .info-text {
-    margin: 20px 0;
+    width: 50%;
+  margin: 0 auto;
   }
   .info .productive-img{
     margin : 0 auto;
