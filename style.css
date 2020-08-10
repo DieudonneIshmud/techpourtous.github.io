@@ -17,7 +17,7 @@ padding-bottom:80px;
 }
 .container{
     padding: 20px;
-    margin: 10px auto;
+    margin: 0 auto;
     max-width: 100%;
     width: 1200px;
 }
@@ -253,6 +253,9 @@ footer .flex{
     padding-bottom: 0;
     background-image: url('images/bg-curvy-mobile.svg');
 
+  }
+  .info-text {
+    margin: 20px 0;
   }
   .info .productive-img{
     margin : 0 auto;
