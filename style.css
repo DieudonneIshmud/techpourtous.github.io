@@ -153,10 +153,6 @@ p{
 
 }
 /*Form Styling*/
-.theForm{
-  display: flex;
-  align-items: center;
-}
 form{
     background-color: hsl(217, 28%, 15%);
     border-radius: 5px;
@@ -169,7 +165,6 @@ form{
     width: 800px;
     z-index: 1;
 }
-
 form h1{
     margin: 0 auto;
 }
@@ -201,7 +196,7 @@ footer .flex{
     display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
-    /*justify-content: center;*/
+    justify-content: center;
 }
 
 .footer-section{
@@ -264,8 +259,8 @@ footer .flex{
   }
   .form-control input{
     margin: 20px 0;
-  }
 
+  }
   .footer-section{
     flex: auto;
     width: 100%;
